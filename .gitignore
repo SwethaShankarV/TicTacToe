@@ -1,0 +1,33 @@
+# Unity-generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# IDE/Editor files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+
+# Crash logs
+*.stacktrace
+*.log
+
+# Unity Collaborate
+.collab/
+
+# Rider
+.idea/
